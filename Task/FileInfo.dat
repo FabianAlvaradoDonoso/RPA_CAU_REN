@@ -42,4 +42,11 @@
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
+  <Entity Name="PruebaRentas.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/12/2020 14:48:36</Property>
+      <Property Name="RunDuration">00:00:07</Property>
+      <Property Name="Status">Failed</Property>
+    </Properties>
+  </Entity>
 </Entities>
