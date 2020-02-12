@@ -1,0 +1,18 @@
+﻿<config>
+	<Directorio_Input>Input\</Directorio_Input>
+	<Directorio_Log>Log\</Directorio_Log>
+	<Directorio_Temp>Temp\</Directorio_Temp>
+	<Directorio_Output>Output\</Directorio_Output>
+	<Directorio_Tasks>Task\</Directorio_Tasks>
+	<Nombre_Archivo_Entrada>input.cvs</Nombre_Archivo_Entrada>
+	<Nombre_Log_System>SystemLog_</Nombre_Log_System>
+	<Nombre_Log_Negocio>Log_</Nombre_Log_Negocio>
+	<Nombre_archivo_confirma_descarga>archivo_descarga</Nombre_archivo_confirma_descarga>
+	<Nombre_Maquina>My-PC</Nombre_Maquina>
+	<Version_Robot>1.0.0</Version_Robot>
+	<Nombre_Robot>RPA_CAU_REN</Nombre_Robot>
+	<Extension_TXT>.txt</Extension_TXT>
+	<Extension_CSV>.csv</Extension_CSV>
+	<CantidadDeErrores>3</CantidadDeErrores>
+	<script></script>
+</config>
