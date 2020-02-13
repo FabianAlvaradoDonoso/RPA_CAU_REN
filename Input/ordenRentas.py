@@ -8,9 +8,6 @@ import time
 lista_final = []
 lista_headers = []
 lista_temp = []
-col_meses = -1
-countMes = 0
-sueldo = 301000
 countRow = 0
 
 # Parametros de entradas

@@ -1,0 +1,210 @@
+(2/12/2020 10:48:16 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(2/12/2020 10:48:16 AM) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(2/12/2020 10:48:16 AM) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(2/12/2020 10:48:16 AM) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(2/12/2020 10:48:16 AM) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(2/12/2020 10:48:16 AM) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(2/12/2020 10:48:20 AM) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU02_04
+(2/12/2020 10:48:20 AM) RPA_CAU_REN | <HU02> | Ejecutando script HU02
+(2/12/2020 10:48:25 AM) RPA_CAU_REN | <HU04> | Ejecutando script HU04
+(2/12/2020 10:48:30 AM) RPA_CAU_REN | <HU04> | Scripts ejecutados
+(2/12/2020 10:48:30 AM) RPA_CAU_REN | <0.- Coordinador> | End Task HU02-04
+(13-02-2020 9:09:51) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:09:51) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:09:51) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:09:51) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:09:51) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:09:52) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:09:55) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:09:55) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 9:14:29) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:14:29) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:14:29) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:14:29) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:14:29) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:14:29) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:14:32) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:14:33) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 9:14:38) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:33:39) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:33:39) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:33:39) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:33:39) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:33:39) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:33:40) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:33:43) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:33:43) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:34:34) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:34:34) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:34:34) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:34:34) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:34:34) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:34:34) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:34:37) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:34:40) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:35:03) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:35:03) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:35:03) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:35:03) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:35:03) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:35:03) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:35:06) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:35:20) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:36:40) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:36:40) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:36:40) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:36:40) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:36:40) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:36:40) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:36:43) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:37:55) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:39:41) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:39:41) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:39:41) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:39:41) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:39:41) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:39:41) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:39:44) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:39:51) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:40:17) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:40:17) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:40:17) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:40:17) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:40:17) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:40:17) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:40:20) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:40:30) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:40:55) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:40:55) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:40:55) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:40:55) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:40:55) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:40:55) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:40:58) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:41:31) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:41:31) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:41:31) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:41:31) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:41:31) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:41:31) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:41:34) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 9:41:41) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 9:44:51) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 9:44:51) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 9:44:51) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 9:44:51) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 9:44:51) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 9:44:51) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 9:44:54) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:34:58) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:34:58) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:34:58) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:34:58) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:34:58) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:34:58) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:35:01) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:35:03) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:36:04) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:36:04) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:36:04) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:36:04) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:36:04) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:36:05) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:36:08) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:36:08) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:36:14) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:36:40) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:36:40) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:36:40) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:36:40) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:36:40) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:36:40) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:36:43) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:36:43) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:36:56) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:37:33) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:37:33) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:37:33) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:37:33) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:37:33) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:37:34) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:37:37) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:37:37) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:37:48) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:38:19) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:38:19) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:38:19) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:38:19) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:38:19) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:38:19) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:38:22) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:38:23) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:38:46) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:47:40) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:47:40) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:47:40) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:47:40) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:47:40) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:47:40) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:47:43) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:47:43) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:48:42) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:48:42) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:48:42) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:48:42) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:48:42) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:48:42) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:48:45) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:48:45) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:49:11) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:49:43) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:49:43) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:49:43) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:49:43) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:49:43) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:49:43) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:49:46) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:49:46) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:50:24) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 11:58:59) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 11:59:00) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 11:59:00) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 11:59:00) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 11:59:00) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 11:59:00) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 11:59:03) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 11:59:03) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 11:59:22) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
+(13-02-2020 12:01:05) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 12:01:05) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 12:01:05) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 12:01:05) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 12:01:05) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 12:01:05) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 12:01:08) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 12:01:08) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 12:02:08) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 12:02:08) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 12:02:08) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 12:02:08) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 12:02:08) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 12:02:08) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 12:02:11) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 12:02:11) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 12:02:58) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 12:02:58) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 12:02:58) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 12:02:58) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 12:02:58) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 12:02:58) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 12:03:01) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 12:03:01) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 12:04:56) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 12:04:56) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 12:04:56) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 12:04:56) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 12:04:56) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 12:04:56) RPA_CAU_REN | <0.- Coordinador> | End Task Config
+(13-02-2020 12:04:59) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
+(13-02-2020 12:04:59) RPA_CAU_REN |  | Ejecutando script HU02
+(13-02-2020 12:05:08) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
