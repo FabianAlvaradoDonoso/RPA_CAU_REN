@@ -7,7 +7,7 @@
 SET oShell = WScript.CreateObject("Wscript.Shell")
 ' Se inicializa la variable que contiene el script a ejecutar
 Dim currentCommand 
-currentCommand = "cmd /C python " & """" & WScript.Arguments(0) & """" & " " & """" & WScript.Arguments(1) & """" & " " & """" & WScript.Arguments(2) & """"
+currentCommand = "cmd /C py " & """" & WScript.Arguments(0) & """" & " " & """" & WScript.Arguments(1) & """" & " " & """" & WScript.Arguments(2) & """"
 ' Ejecutar script en SHELL
 oShell.run currentCommand,1,False
 
