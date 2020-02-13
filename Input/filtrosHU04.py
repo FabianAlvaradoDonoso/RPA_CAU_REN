@@ -77,9 +77,9 @@ try:
     csvfile.close()
     print("Cantidad de datos filtrados: " + str(countRow))
 
- 	# Segundos de deley para comprobar que esta todo correcto
-    time.sleep(5)
+ 	# Segundos de delay para comprobar que esta todo correcto
+    time.sleep(3)
 
 except:
     print("FALLO SCRIPT")
-    time.sleep(5)
+    time.sleep(3)

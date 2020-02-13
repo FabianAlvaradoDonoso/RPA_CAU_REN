@@ -6,7 +6,7 @@ import time
 
 # Variables inicales
 lista_final = []
-lista_headers_wrong = []
+lista_headers = []
 lista_temp = []
 col_meses = -1
 countMes = 0
@@ -35,30 +35,23 @@ for col in range(0,len(i)):
     if "%" not in header and header != "":
         lista_temp.append(col)
         lista_temp.append(header)
-        lista_headers_wrong.append(lista_temp)
+        lista_headers.append(lista_temp)
 
-
-# # Ver año ultimo año calendario
-# anio = i[col_meses+1][-2:]
-
-# # Descartar meses de otro año
-# for col in range(0,len(i)):
-#     header = i[col].strip()
-
-#     # Llenar lista con posicion de meses de otro año calendario
-#     if col > col_meses and not(anio in header):
-#         lista_headers_wrong.append(col)
-# Recorrer filas
-for años in lista_headers_wrong:
+# Recorrer solo la columna de los años
+for años in lista_headers:
+    # Recorrer por fila
     for row in range(0,len(rest)):
         lista_temp = []
+        # Recorrer por columna
         for col in range(len(rest[row])):
+            # Si el index de la columna igual a la de los headers
             if(col == años[0]):
                 lista_temp.append(años[1])
                 lista_temp.append(rest[row][0])
                 lista_temp.append(rest[row][col])
+                countRow += 1
         lista_final.append(lista_temp)
-print(lista_final)
+
 #Cerrar archivo output
 csvfile.close() 
 
@@ -72,7 +65,7 @@ for fila in lista_final:
 
 # Cerrar archivo input
 csvfile.close()
-print("Cantidad de datos filtrados: " + str(countRow))
+print("Cantidad de datos ordenados: " + str(countRow))
 
-# # Segundos de deley para comprobar que esta todo correcto
-# time.sleep(5)
+ # Segundos de delay para comprobar que esta todo correcto
+time.sleep(3)

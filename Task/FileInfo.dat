@@ -37,9 +37,9 @@
   </Entity>
   <Entity Name="HU02-04.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/12/2020 10:48:30</Property>
-      <Property Name="RunDuration">00:00:10</Property>
-      <Property Name="Status">Complete</Property>
+      <Property Name="LastRunTime">02/13/2020 08:50:39</Property>
+      <Property Name="RunDuration">00:00:00</Property>
+      <Property Name="Status">Failed</Property>
     </Properties>
   </Entity>
   <Entity Name="PruebaRentas.atmx">

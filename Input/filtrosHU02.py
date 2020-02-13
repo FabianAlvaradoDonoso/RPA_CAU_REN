@@ -162,14 +162,14 @@ try:
 
 		print("OK. Se procesaron " + str(countRow) + " filas en total.")
 
-		# Segundos de deley para comprobar que esta todo correcto
-		time.sleep(5)
+		# Segundos de delay para comprobar que esta todo correcto
+		time.sleep(3)
 	else:
 		# Si no estan todas las columnas requeridas da un error.
 		print("ERROR. Algunas columnas no encontradas")
-		time.sleep(5)
+		time.sleep(3)
 
 except:
  	print("FALLO SCRIPT. Revisar codigo")
- 	time.sleep(5)
+ 	time.sleep(3)
 
