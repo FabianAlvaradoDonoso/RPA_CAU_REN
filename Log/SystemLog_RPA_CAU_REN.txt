@@ -70,3 +70,34 @@
 (13-02-2020 15:16:20) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
 (13-02-2020 15:16:20) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
 (13-02-2020 15:16:28) RPA_CAU_REN | <0.- Coordinador> | End Task HU10
+(13-02-2020 15:33:48) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | End Task Config
+(13-02-2020 15:33:51) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
+(13-02-2020 15:33:51) RPA_CAU_REN | <HU02> | Ejecutando script HU02
+(13-02-2020 15:33:56) RPA_CAU_REN | <HU04> | Ejecutando script HU04
+(13-02-2020 15:34:02) RPA_CAU_REN | <HU04> | Scripts ejecutados
+(13-02-2020 15:34:02) RPA_CAU_REN | <1_Config> | End Task HU02-04
+(13-02-2020 15:35:16) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 15:35:17) RPA_CAU_REN | <1_Config> | End Task Config
+(13-02-2020 15:35:20) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
+(13-02-2020 15:35:20) RPA_CAU_REN |  | Ejecutando script HU03
+(13-02-2020 15:35:25) RPA_CAU_REN | <1_Config> | End Task HU03
+(13-02-2020 15:36:36) .....:::::: INICIANDO ROBOT ::::::.....
+(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | End Task Config
+(13-02-2020 15:36:39) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
+(13-02-2020 15:36:39) RPA_CAU_REN | <HU02> | Ejecutando script HU02
+(13-02-2020 15:36:44) RPA_CAU_REN | <HU04> | Ejecutando script HU04
+(13-02-2020 15:36:50) RPA_CAU_REN | <HU04> | Scripts ejecutados
+(13-02-2020 15:36:50) RPA_CAU_REN | <1_Config> | End Task HU02-04

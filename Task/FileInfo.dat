@@ -16,8 +16,8 @@
   </Entity>
   <Entity Name="0_Coordinador.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 15:16:29</Property>
-      <Property Name="RunDuration">00:00:12</Property>
+      <Property Name="LastRunTime">02/13/2020 15:36:50</Property>
+      <Property Name="RunDuration">00:00:14</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -30,15 +30,15 @@
   </Entity>
   <Entity Name="1_Config.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 15:16:16</Property>
+      <Property Name="LastRunTime">02/13/2020 15:36:36</Property>
       <Property Name="RunDuration">00:00:00</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="HU02-04.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 15:05:06</Property>
-      <Property Name="RunDuration">00:00:06</Property>
+      <Property Name="LastRunTime">02/13/2020 15:36:50</Property>
+      <Property Name="RunDuration">00:00:10</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -65,8 +65,8 @@
   </Entity>
   <Entity Name="HU03.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 15:05:23</Property>
-      <Property Name="RunDuration">00:00:13</Property>
+      <Property Name="LastRunTime">02/13/2020 15:35:25</Property>
+      <Property Name="RunDuration">00:00:05</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>

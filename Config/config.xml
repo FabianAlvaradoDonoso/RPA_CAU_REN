@@ -4,6 +4,7 @@
 	<Directorio_Temp>Temp\</Directorio_Temp>
 	<Directorio_Output>Output\</Directorio_Output>
 	<Directorio_Tasks>Task\</Directorio_Tasks>
+	<Directorio_Scripts>Scripts\</Directorio_Scripts>
 	<Nombre_Archivo_Entrada>input.cvs</Nombre_Archivo_Entrada>
 	<Nombre_Log_System>SystemLog_</Nombre_Log_System>
 	<Nombre_Log_Negocio>Log_</Nombre_Log_Negocio>

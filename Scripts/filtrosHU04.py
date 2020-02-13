@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# sys.argv[1] => "<ruta_input>|<ruta_output>"
+# sys.argv[2] => "<sueldo>"
+
 import csv
 import sys
 import time
@@ -9,13 +12,21 @@ lista_final = []
 lista_headers_wrong = []
 col_meses = -1
 countMes = 0
-sueldo = 301000
+sueldo = 0
 countRow = 0
 
 try:
-    # Parametros de entradas
-    ruta_input = sys.argv[1]
-    ruta_output = sys.argv[2]
+    # -- Parametros de entradas --
+
+    # En el argumento 1, vienen las dos rutas (in|out), y se separan en una lista
+    argv = sys.argv[1].split("|")
+
+    # Se asigna las rutas correspondientes a la variable correspondiente
+    ruta_input = argv[0]
+    ruta_output = argv[1]
+    
+    # Se asigna el valor del argumento 2 en la variable "sueldo"
+    sueldo = int(sys.argv[2])
 
     # Lectura del archivo INPUT
     csvfile = open(ruta_input, 'r')

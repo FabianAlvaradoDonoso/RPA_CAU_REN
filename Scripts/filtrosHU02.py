@@ -1,5 +1,8 @@
 # -*- coding: utf-8 -*-
 
+# sys.argv[1] => "<ruta_input>"
+# sys.argv[2] => "<ruta_output>"
+
 import csv
 import sys
 import time
