@@ -16,8 +16,8 @@
   </Entity>
   <Entity Name="0_Coordinador.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 12:05:08</Property>
-      <Property Name="RunDuration">00:00:11</Property>
+      <Property Name="LastRunTime">02/13/2020 15:16:29</Property>
+      <Property Name="RunDuration">00:00:12</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -30,15 +30,15 @@
   </Entity>
   <Entity Name="1_Config.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 12:04:56</Property>
+      <Property Name="LastRunTime">02/13/2020 15:16:16</Property>
       <Property Name="RunDuration">00:00:00</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="HU02-04.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 10:40:35</Property>
-      <Property Name="RunDuration">00:00:05</Property>
+      <Property Name="LastRunTime">02/13/2020 15:05:06</Property>
+      <Property Name="RunDuration">00:00:06</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
@@ -51,15 +51,22 @@
   </Entity>
   <Entity Name="HU10.atmx">
     <Properties>
-      <Property Name="LastRunTime">02/13/2020 10:36:48</Property>
-      <Property Name="RunDuration">00:00:07</Property>
-      <Property Name="Status">Failed</Property>
+      <Property Name="LastRunTime">02/13/2020 15:16:28</Property>
+      <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
   <Entity Name="HU03v2.atmx">
     <Properties>
       <Property Name="LastRunTime">02/13/2020 12:05:08</Property>
       <Property Name="RunDuration">00:00:08</Property>
+      <Property Name="Status">Complete</Property>
+    </Properties>
+  </Entity>
+  <Entity Name="HU03.atmx">
+    <Properties>
+      <Property Name="LastRunTime">02/13/2020 15:05:23</Property>
+      <Property Name="RunDuration">00:00:13</Property>
       <Property Name="Status">Complete</Property>
     </Properties>
   </Entity>
