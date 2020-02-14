@@ -60,6 +60,9 @@ try:
     for row in range(0,len(rest)):
         countMes = 0
 
+        for col in range(0, col_meses):
+            if '\'' in rest[row][col]: rest[row][col] = rest[row][col].replace('\'', '')
+
         # Recorre columnas
         for col in range(col_meses+1, lista_headers_wrong[0]):
             
