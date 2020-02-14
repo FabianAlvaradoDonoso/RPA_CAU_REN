@@ -1,0 +1,68 @@
+CREATE OR REPLACE FUNCTION public.insert_cargas_trabajador(
+    in_rut_afil text,
+    in_nombre text,
+    in_direccion text,
+    in_comuna text,
+    in_ciudad text,
+    in_fono_part integer,
+    in_est_afil text,
+    in_rut_carga text,
+    in_nombre_carga text,
+    in_parentesco text,
+    in_glosa text,
+    in_fch_extincion date)
+  RETURNS text AS
+$BODY$
+DECLARE
+ resultado INTEGER;
+
+BEGIN
+
+ resultado := (SELECT count(*) FROM public.cau_ren_cargas_trabajador WHERE rut_afil = In_rut_afil AND rut_carga = In_rut_carga);
+
+ IF resultado = 0 THEN
+	INSERT INTO public.cau_ren_cargas_trabajador(rut_afil, nombre, direccion, comuna, ciudad, fono_part, est_afil, rut_carga, nombre_carga, parentesco, glosa, fch_extincion)
+	VALUES (In_rut_afil, In_nombre, In_direccion, In_comuna, In_ciudad, In_fono_part, In_est_afil, In_rut_carga, In_nombre_carga, In_parentesco, In_glosa, In_fch_extincion);
+
+	return 'Insertado';
+ END IF;
+ 
+ return 'Ya existe';
+
+END;
+ $BODY$
+  LANGUAGE plpgsql VOLATILE
+  COST 100;
+ALTER FUNCTION public.insert_cargas_trabajador(text, text, text, text, text, integer, text, text, text, text, text, date)
+  OWNER TO postgres;
+
+
+
+
+CREATE OR REPLACE FUNCTION public.insertrentas(
+    m text,
+    y integer,
+    s integer)
+  RETURNS text AS
+$BODY$
+DECLARE
+ resultado INTEGER;
+
+BEGIN
+
+ resultado := (select count(*) from public.cau_ren_rentas_por_mes_anio as rentas where rentas.mes = m and rentas.anio = y);
+
+ IF resultado = 0 THEN
+	INSERT INTO public.cau_ren_rentas_por_mes_anio(mes, anio, porcentaje) VALUES (m, y, s);
+
+	return 'Insertado';
+ END IF;
+ 
+ return 'Ya existe';
+
+END;
+ $BODY$
+  LANGUAGE plpgsql VOLATILE
+  COST 100;
+ALTER FUNCTION public.insertrentas(text, integer, integer)
+  OWNER TO postgres;
