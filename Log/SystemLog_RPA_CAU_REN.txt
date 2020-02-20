@@ -390,3 +390,72 @@ Error while executing the query”.
 (17-02-2020 9:18:24) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
 (17-02-2020 9:18:26) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
 (17-02-2020 9:18:40) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:24:28) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:24:31) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:24:32) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:24:34) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:24:46) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:24:49) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(18-02-2020 17:25:26) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:25:29) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:25:29) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:25:31) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:25:43) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:25:46) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(18-02-2020 17:26:05) RPA_CAU_REN | <1_Config> | End Task HU11
+(18-02-2020 17:26:56) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:26:57) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:27:00) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:27:00) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:27:02) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:27:13) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:27:16) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(18-02-2020 17:27:26) RPA_CAU_REN | <1_Config> | End Task HU11
+(18-02-2020 17:29:16) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:29:19) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:29:19) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:29:21) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:29:34) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(18-02-2020 17:30:09) RPA_CAU_REN | <1_Config> | End Task HU11
+(18-02-2020 17:36:48) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:36:52) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:36:52) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:36:54) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:37:06) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:37:09) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(18-02-2020 17:38:14) .....:::::: INICIANDO ROBOT ::::::.....
+(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Iniciando Directorios
+(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
+(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
+(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
+(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | End Task Config
+(18-02-2020 17:38:17) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
+(18-02-2020 17:38:17) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
+(18-02-2020 17:38:19) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
+(18-02-2020 17:38:31) RPA_CAU_REN | <1_Config> | End Task HU10
+(18-02-2020 17:38:34) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
