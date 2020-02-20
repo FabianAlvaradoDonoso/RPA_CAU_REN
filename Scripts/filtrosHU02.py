@@ -82,51 +82,51 @@ try:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'ene-' in header:
+		if '01/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'feb-' in header:
+		if '02/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'mar-' in header:
+		if '03/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'abr-' in header:
+		if '04/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'may-' in header:
+		if '05/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'jun-' in header:
+		if '06/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'jul-' in header:
+		if '07/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'ago-' in header:
+		if '08/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'sept-' in header:
+		if '09/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'oct-' in header:
+		if '10/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'nov-' in header:
+		if '11/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)
-		if 'dic-' in header:
+		if '12/' in header:
 			lista_columnas.append(col)
 			cont_columnas += 1
 			lista_headers.append(header)

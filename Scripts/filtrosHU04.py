@@ -46,15 +46,22 @@ try:
             col_meses = col
 
     # Ver año ultimo año calendario
-    anio = i[col_meses+1][-2:]
+    anio = i[col_meses+1][-4:]
 
     # Descartar meses de otro año
-    for col in range(0,len(i)):
+    for col in range(col_meses+1 ,len(i)):
         header = i[col].strip()
 
+        # Obtener año de la columna actual para comparar
+        anio_col = i[col][-4:]
+        
         # Llenar lista con posicion de meses de otro año calendario
-        if col > col_meses and not(anio in header):
+        if anio_col != anio:
             lista_headers_wrong.append(col)
+
+    # for col in range(col_meses+1, len(i)):
+    #     if(col not in lista_headers_wrong):
+    #         print("Estos Si {}".format(col))
 
     # Recorrer filas
     for row in range(0,len(rest)):
@@ -64,9 +71,9 @@ try:
             if '\'' in rest[row][col]: rest[row][col] = rest[row][col].replace('\'', '')
 
         # Recorre columnas
-        for col in range(col_meses+1, lista_headers_wrong[0]):
+        for col in range(col_meses+1, len(i)):
             
-            if int(rest[row][col]) >= sueldo * 0.5: countMes += 1
+            if col not in lista_headers_wrong and int(rest[row][col]) >= sueldo * 0.5: countMes += 1
     
         # Si es el la columna correcta y se encontraron mas de 4 sueldo que cumplan las condiciones
         if countMes >= 4:
