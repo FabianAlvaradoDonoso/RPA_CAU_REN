@@ -1,461 +1,195 @@
-(13-02-2020 15:03:19) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:03:19) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:03:19) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:03:19) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:03:19) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:03:19) RPA_CAU_REN | <0.- Coordinador> | End Task Config
-(13-02-2020 15:03:22) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU02_04
-(13-02-2020 15:03:22) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 15:03:27) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 15:03:29) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 15:03:29) RPA_CAU_REN | <0.- Coordinador> | End Task HU02-04
-(13-02-2020 15:03:32) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
-(13-02-2020 15:03:38) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 15:03:38) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(13-02-2020 15:03:38) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 15:03:43) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:03:47) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
-(13-02-2020 15:03:50) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU10
-(13-02-2020 15:04:14) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:04:14) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(13-02-2020 15:04:14) RPA_CAU_REN | <0.- Coordinador> | End Task HU10
-(13-02-2020 15:04:56) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:04:56) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:04:56) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:04:56) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:04:56) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:04:56) RPA_CAU_REN | <0.- Coordinador> | End Task Config
-(13-02-2020 15:04:59) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU02_04
-(13-02-2020 15:04:59) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 15:05:05) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 15:05:06) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 15:05:06) RPA_CAU_REN | <0.- Coordinador> | End Task HU02-04
-(13-02-2020 15:05:09) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU03
-(13-02-2020 15:05:14) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 15:05:14) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(13-02-2020 15:05:14) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 15:05:20) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:05:23) RPA_CAU_REN | <0.- Coordinador> | End Task HU03
-(13-02-2020 15:05:26) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU10
-(13-02-2020 15:05:29) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:05:29) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(13-02-2020 15:05:29) RPA_CAU_REN | <HU10> | Error: Invalid 'Column number' specified. Record(s) retrieved consists of '25'  columns. Linea: 20
-(13-02-2020 15:05:29) RPA_CAU_REN | <0.- Coordinador> | End Task HU10
-(13-02-2020 15:12:45) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:12:45) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:12:45) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:12:45) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:12:45) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:12:45) RPA_CAU_REN | <0.- Coordinador> | End Task Config
-(13-02-2020 15:12:48) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU10
-(13-02-2020 15:12:50) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:12:50) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(13-02-2020 15:13:46) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:13:46) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:13:46) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:13:46) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:13:46) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:13:46) RPA_CAU_REN | <0.- Coordinador> | End Task Config
-(13-02-2020 15:13:49) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU10
-(13-02-2020 15:13:49) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:13:49) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(13-02-2020 15:13:57) RPA_CAU_REN | <0.- Coordinador> | End Task HU10
-(13-02-2020 15:16:16) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:16:16) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:16:16) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:16:16) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:16:16) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:16:17) RPA_CAU_REN | <0.- Coordinador> | End Task Config
-(13-02-2020 15:16:20) RPA_CAU_REN | <0.- Coordinador> | Iniciando Task HU10
-(13-02-2020 15:16:20) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 15:16:20) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(13-02-2020 15:16:28) RPA_CAU_REN | <0.- Coordinador> | End Task HU10
-(13-02-2020 15:33:48) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:33:48) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 15:33:51) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 15:33:51) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 15:33:56) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 15:34:02) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 15:34:02) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 15:35:16) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:35:16) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:35:17) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 15:35:20) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 15:35:20) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 15:35:25) RPA_CAU_REN | <1_Config> | End Task HU03
-(13-02-2020 15:36:36) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 15:36:36) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 15:36:39) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 15:36:39) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 15:36:44) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 15:36:50) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 15:36:50) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 16:33:01) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:33:01) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:33:01) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:33:01) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:33:01) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:33:01) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:33:04) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 16:33:28)  | ¡ERROR! Tipo: Sistema, Línea: 13, Descripción: Image not found!
-
-Kindly edit the Image Recognition command with the following steps:
-- Use the 'Repeat if image not found' option.
-- Use the 'Quick Test' option to check if the image is indeed present.”. 
-(13-02-2020 16:33:28) RPA_CAU_REN | <1_Config> | End Task HU03
-(13-02-2020 16:36:55) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:36:55) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:36:55) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:36:55) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:36:55) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:36:55) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:36:58) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 16:37:02) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 16:37:02) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(13-02-2020 16:37:02) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 16:37:08) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(13-02-2020 16:37:08)  | ¡ERROR! Tipo: Sistema, Línea: 37, Descripción: ERROR: no existe la función public.insertrentas(unknown, integer, integer);
-Error while executing the query”. 
-(13-02-2020 16:37:08) RPA_CAU_REN | <1_Config> | End Task HU03
-(13-02-2020 16:37:33) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:37:33) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:37:33) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:37:33) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:37:33) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:37:33) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:37:36) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 16:37:41) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 16:39:32) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:39:32) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:39:32) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:39:32) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:39:32) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:39:32) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:39:35) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 16:39:39) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 16:39:39) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(13-02-2020 16:39:39) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 16:39:45) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(13-02-2020 16:39:51) RPA_CAU_REN | <1_Config> | End Task HU03
-(13-02-2020 16:40:50) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:40:50) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:40:50) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:40:50) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:40:50) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:40:50) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:40:53) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(13-02-2020 16:40:57) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(13-02-2020 16:40:57) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(13-02-2020 16:40:57) RPA_CAU_REN |  | Ejecutando script HU03
-(13-02-2020 16:41:02) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(13-02-2020 16:41:05) RPA_CAU_REN | <1_Config> | End Task HU03
-(13-02-2020 16:42:46) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 16:42:46) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 16:42:46) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 16:42:46) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 16:42:46) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 16:42:46) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 16:42:49) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 16:42:49) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 16:42:54) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 16:42:57) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 16:42:57) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 17:26:54) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 17:26:54) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 17:26:54) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 17:26:54) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 17:26:54) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 17:26:55) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 17:26:58) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 17:26:58) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 17:27:03) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 17:27:03) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 17:27:09) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 17:27:30) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 17:27:31) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 17:27:31) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 17:27:31) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 17:27:31) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 17:27:31) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 17:27:34) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 17:27:34) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 17:27:39) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 17:27:39) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 17:28:02) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 17:29:37) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 17:29:40) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 17:29:40) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 17:29:45) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 17:29:51) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 17:29:59) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(13-02-2020 17:30:38) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 17:30:38) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 17:30:38) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 17:30:38) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 17:30:38) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 17:30:38) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 17:30:41) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 17:30:41) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 17:30:46) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 17:30:52) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 17:32:20) .....:::::: INICIANDO ROBOT ::::::.....
-(13-02-2020 17:32:20) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(13-02-2020 17:32:20) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(13-02-2020 17:32:20) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(13-02-2020 17:32:20) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(13-02-2020 17:32:21) RPA_CAU_REN | <1_Config> | End Task Config
-(13-02-2020 17:32:24) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(13-02-2020 17:32:24) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(13-02-2020 17:32:29) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(13-02-2020 17:32:34) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(13-02-2020 17:32:38) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(13-02-2020 17:32:38) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 8:48:27) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 8:48:27) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 8:48:27) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 8:48:27) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 8:48:27) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 8:48:27) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 8:48:30) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 8:48:30) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 8:48:36) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 8:48:41) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 8:48:49) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 9:32:36) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 9:32:37) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 9:32:37) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 9:32:37) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 9:32:37) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 9:32:37) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 9:32:40) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 9:32:40) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 9:32:45) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 9:32:50) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 9:32:55) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(14-02-2020 9:32:55) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 9:36:02) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 9:36:02) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 9:36:02) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 9:36:02) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 9:36:02) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 9:36:02) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 9:36:05) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 9:36:06) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 9:36:11) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 9:36:16) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 9:36:24) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(14-02-2020 9:36:24) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:35:12) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:35:12) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:35:12) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:35:12) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:35:12) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:35:13) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:35:16) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:35:16) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:35:21) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:35:30) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:37:40) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:37:40) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:37:40) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:37:40) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:37:40) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:37:40) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:37:43) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:37:43) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:38:06) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:38:06) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:38:06) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:38:06) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:38:06) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:38:06) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:38:09) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:38:09) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:38:15) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:38:43) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:39:23) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:39:23) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:39:24) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:39:24) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:39:24) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:39:24) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:39:27) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:39:27) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:39:32) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:39:37) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:41:20) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:41:20) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:41:20) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:41:20) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:41:20) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:41:20) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:41:23) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:41:23) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:41:28) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:41:34) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:42:59) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:43:20) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:43:20) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:43:20) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:43:20) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:43:20) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:43:20) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:43:23) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:43:23) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:43:29) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:43:34) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:44:44) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:44:44) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:44:44) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:44:44) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:44:44) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:44:44) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:44:47) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:44:47) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:44:53) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:44:58) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:45:32) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:45:32) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:45:32) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:45:32) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:45:32) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:45:33) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:45:36) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:45:36) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:45:41) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:45:46) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:48:46) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:48:46) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:48:46) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:48:46) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:48:46) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:48:47) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:48:50) RPA_CAU_REN | <1_Config> | Iniciando Task HU02_04
-(14-02-2020 10:48:50) RPA_CAU_REN | <HU02> | Ejecutando script HU02
-(14-02-2020 10:48:55) RPA_CAU_REN | <HU04> | Ejecutando script HU04
-(14-02-2020 10:49:01) RPA_CAU_REN | <HU04> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:49:07) RPA_CAU_REN | <HU04> | Scripts ejecutados
-(14-02-2020 10:49:07) RPA_CAU_REN | <1_Config> | End Task HU02-04
-(14-02-2020 10:49:47) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:49:47) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:49:47) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:49:47) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:49:47) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:49:48) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:49:51) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(14-02-2020 10:49:59) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(14-02-2020 10:49:59) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(14-02-2020 10:49:59) RPA_CAU_REN |  | Ejecutando script HU03
-(14-02-2020 10:50:05) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:50:08) RPA_CAU_REN | <1_Config> | End Task HU03
-(14-02-2020 10:50:23) .....:::::: INICIANDO ROBOT ::::::.....
-(14-02-2020 10:50:23) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(14-02-2020 10:50:23) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(14-02-2020 10:50:23) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(14-02-2020 10:50:23) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(14-02-2020 10:50:23) RPA_CAU_REN | <1_Config> | End Task Config
-(14-02-2020 10:50:26) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(14-02-2020 10:50:26) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(14-02-2020 10:50:26) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(14-02-2020 10:50:36) RPA_CAU_REN | <1_Config> | End Task HU10
-(17-02-2020 9:17:58) .....:::::: INICIANDO ROBOT ::::::.....
-(17-02-2020 9:17:58) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(17-02-2020 9:17:58) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(17-02-2020 9:17:58) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(17-02-2020 9:17:58) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(17-02-2020 9:17:58) RPA_CAU_REN | <1_Config> | End Task Config
-(17-02-2020 9:18:01) RPA_CAU_REN | <1_Config> | Iniciando Task HU03
-(17-02-2020 9:18:10) RPA_CAU_REN |  | Descargando archivo de sueldos minimos por mes y año
-(17-02-2020 9:18:10) RPA_CAU_REN |  | Archivo guardado en carpeta Input
-(17-02-2020 9:18:12) RPA_CAU_REN |  | Ejecutando script HU03
-(17-02-2020 9:18:18) RPA_CAU_REN |  | Leyendo Archivo "datosFiltrados"
-(17-02-2020 9:18:20) RPA_CAU_REN | <1_Config> | End Task HU03
-(17-02-2020 9:18:23) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(17-02-2020 9:18:24) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(17-02-2020 9:18:26) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(17-02-2020 9:18:40) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:24:28) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:24:28) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:24:31) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:24:32) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:24:34) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:24:46) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:24:49) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
-(18-02-2020 17:25:26) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:25:26) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:25:29) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:25:29) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:25:31) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:25:43) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:25:46) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
-(18-02-2020 17:26:05) RPA_CAU_REN | <1_Config> | End Task HU11
-(18-02-2020 17:26:56) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:26:56) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:26:57) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:27:00) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:27:00) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:27:02) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:27:13) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:27:16) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
-(18-02-2020 17:27:26) RPA_CAU_REN | <1_Config> | End Task HU11
-(18-02-2020 17:29:16) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:29:16) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:29:19) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:29:19) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:29:21) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:29:34) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:29:37) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
-(18-02-2020 17:30:09) RPA_CAU_REN | <1_Config> | End Task HU11
-(18-02-2020 17:36:48) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:36:49) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:36:52) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:36:52) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:36:54) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:37:06) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:37:09) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
-(18-02-2020 17:38:14) .....:::::: INICIANDO ROBOT ::::::.....
-(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Iniciando Directorios
-(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Inicializando archivos de entrada y log
-(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Configurando Log de Negocio
-(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | Termino tareas de configuracion
-(18-02-2020 17:38:14) RPA_CAU_REN | <1_Config> | End Task Config
-(18-02-2020 17:38:17) RPA_CAU_REN | <1_Config> | Iniciando Task HU10
-(18-02-2020 17:38:17) RPA_CAU_REN | <HU10> | Leyendo Archivo "datosFiltrados"
-(18-02-2020 17:38:19) RPA_CAU_REN | <HU10> | Creando archivos separados por "Glosa 01: Disminucion por trabajo" y "Glosa 02: Disminucion por perdida de requisitos"
-(18-02-2020 17:38:31) RPA_CAU_REN | <1_Config> | End Task HU10
-(18-02-2020 17:38:34) RPA_CAU_REN | <1_Config> | Iniciando Task HU11
+(4/15/2020 11:41:17 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 11:41:17 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | ..:: Iniciando <HU03> ::..
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Borrando archivos antiguos
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Borrando archivo "Rentas por mes y anio.xlsx"
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Borrando archivo "rentas.csv"
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Borrando archivo "rentasOrdenadas.csv"
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Copiando archivo desde Drive
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Archivo copiado con exito
+(4/15/2020 11:41:20 AM) RPA_CAU_REN | <HU03> | Archivo "Rentas por mes y anio.xlsx" encontrado
+(4/15/2020 11:41:23 AM) RPA_CAU_REN | <HU06> | ..:: Iniciando <HU06> ::..
+(4/15/2020 11:41:24 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | ..:: Iniciando <Menu_Andes_MovimientoVista> ::..
+(4/15/2020 11:41:24 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | En el caso de que no este en la vista principal de MA, se mueve a ella.
+(4/15/2020 11:41:24 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | ..:: Iniciando <Menu_Andes_VistaPrincipal> ::..
+(4/15/2020 11:41:24 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Verificando si MA esta abierto
+(4/15/2020 11:41:24 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | ..:: Iniciando <Menu_Andes_VerificarExistenciaMA> ::..
+(4/15/2020 11:42:01 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 11:42:01 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 11:42:03 AM) RPA_CAU_REN | <HU06> | ..:: Iniciando <HU06> ::..
+(4/15/2020 11:42:04 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | ..:: Iniciando <Menu_Andes_MovimientoVista> ::..
+(4/15/2020 11:42:04 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | En el caso de que no este en la vista principal de MA, se mueve a ella.
+(4/15/2020 11:42:04 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | ..:: Iniciando <Menu_Andes_VistaPrincipal> ::..
+(4/15/2020 11:42:04 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Verificando si MA esta abierto
+(4/15/2020 11:42:04 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | ..:: Iniciando <Menu_Andes_VerificarExistenciaMA> ::..
+(4/15/2020 11:42:34 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Ventana de MA no existe
+(4/15/2020 11:42:34 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Abriendo MA
+(4/15/2020 11:43:24 AM) <Menu_Andes_VerificarExistenciaMA> | ¡ERROR! Tipo: Sistema, Línea: 38, Descripción: Unable to find 'Run this time' PushButton. ‘Search Criteria’ did not match. (TYPE_1001)”.
+(4/15/2020 11:43:28 AM) RPA_CAU_REN | <2_Task_Errores> | ..:: Iniciando <2_Task_Errores> ::..
+(4/15/2020 11:43:28 AM) RPA_CAU_REN | <2_Task_Errores> | Error detectado en HU06, este es el Error N°1
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <HU06> | ..:: Iniciando <HU06> ::..
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | ..:: Iniciando <Menu_Andes_MovimientoVista> ::..
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | En el caso de que no este en la vista principal de MA, se mueve a ella.
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | ..:: Iniciando <Menu_Andes_VistaPrincipal> ::..
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Verificando si MA esta abierto
+(4/15/2020 11:43:29 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | ..:: Iniciando <Menu_Andes_VerificarExistenciaMA> ::..
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Ventana de MA existe, colocada en vista Login
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Ingresando credenciales del login
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Ingresando User
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | Ingresando Pass
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | [Enter] para logearse
+(4/15/2020 11:43:32 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Moviendose a la vista principal de MA
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Vista principal de MA encontrada, terminando ejecucion del metabot.
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Moviendose a la Vista Solicitada [SAF12-4]
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Ingresando a la vista [SAF12]
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Ingresando a la vista [4]
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <HU06> | ..:: Iniciando <HU06> ::..
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | ..:: Iniciando <Menu_Andes_MovimientoVista> ::..
+(4/15/2020 11:43:36 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | En el caso de que no este en la vista principal de MA, se mueve a ella.
+(4/15/2020 11:43:37 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | ..:: Iniciando <Menu_Andes_VistaPrincipal> ::..
+(4/15/2020 11:43:37 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Verificando si MA esta abierto
+(4/15/2020 11:43:37 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | ..:: Iniciando <Menu_Andes_VerificarExistenciaMA> ::..
+(4/15/2020 11:43:44 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | MA esta abierto
+(4/15/2020 11:43:44 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Moviendose a la vista principal de MA
+(4/15/2020 11:43:49 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | No es la vista principal, retrocediendo a vista anterior.
+(4/15/2020 11:43:54 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | No es la vista principal, retrocediendo a vista anterior.
+(4/15/2020 11:44:00 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | No es la vista principal, retrocediendo a vista anterior.
+(4/15/2020 11:44:01 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Vista principal de MA encontrada, terminando ejecucion del metabot.
+(4/15/2020 11:44:01 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Moviendose a la Vista Solicitada [SAF12-4]
+(4/15/2020 11:44:01 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Ingresando a la vista [SAF12]
+(4/15/2020 11:44:01 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | Ingresando a la vista [4]
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <HU06> | ..:: Iniciando <HU06> ::..
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | ..:: Iniciando <Menu_Andes_MovimientoVista> ::..
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <Menu_Andes_MovimientoVista> | En el caso de que no este en la vista principal de MA, se mueve a ella.
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | ..:: Iniciando <Menu_Andes_VistaPrincipal> ::..
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <Menu_Andes_VistaPrincipal> | Verificando si MA esta abierto
+(4/15/2020 11:44:02 AM) RPA_CAU_REN | <Menu_Andes_VerificarExistenciaMA> | ..:: Iniciando <Menu_Andes_VerificarExistenciaMA> ::..
+(4/15/2020 1:14:13 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:14:13 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:14:15 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:14:15 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:14:15 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:15:24 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:15:24 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:15:26 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:15:26 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:15:26 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:30:50 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:30:50 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:30:52 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:30:52 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:30:52 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:32:59 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:32:59 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:33:01 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:33:01 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:33:01 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:35:17 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:35:17 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:35:18 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:35:18 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:35:18 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:36:22 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:36:22 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:36:23 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:36:23 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:36:23 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/15/2020 1:36:53 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:36:53 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:36:59 PM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/15/2020 1:36:59 PM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/15/2020 1:37:01 PM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/15/2020 1:37:01 PM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/15/2020 1:37:01 PM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/16/2020 9:56:55 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/16/2020 9:56:55 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/16/2020 9:56:57 AM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/16/2020 9:56:57 AM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/16/2020 9:56:57 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Estadisticas encontradas en la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo Log de Negocio
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Archivo con log de negocio fue creado
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de obtencion de registros desde la tabla de estadisticas
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Recorriendo registros traidos por el SP
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Si es la ultima fila, se colocan los diseños correspondientes al footer
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Se crea la estructura del header
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Union del header, body y footer de la tabla
+(4/16/2020 9:56:58 AM) RPA_CAU_REN | <4_Estadisticas> | Se envia la tabla por correo a las personas correspondientes
+(4/16/2020 10:39:06 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/16/2020 10:39:06 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Seteando Dia, Mes y Año
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Colocando 0 a la derecha para el formato del dia
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Colocando 0 a la derecha para el formato del mes
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Union de la fecha con formato YYYY-MM-DD
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Quitando caracter especial (Asi no lo toma como INT y realiza una operacion matematica)
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo nombre del mes con el numero que corresponda
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Seteo de fecha del periodo usado para el proceso
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Estadisticas encontradas en la tabla
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo Log de Negocio
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Archivo con log de negocio fue creado
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de obtencion de registros desde la tabla de estadisticas
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Recorriendo registros traidos por el SP
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:09 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Si es la ultima fila, se colocan los diseños correspondientes al footer
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Se crea la estructura del header
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Union del header, body y footer de la tabla
+(4/16/2020 10:39:10 AM) RPA_CAU_REN | <4_Estadisticas> | Se envia la tabla por correo a las personas correspondientes
+(4/16/2020 10:40:44 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/16/2020 10:40:44 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Seteando Dia, Mes y Año
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Colocando 0 a la derecha para el formato del mes
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Union de la fecha con formato YYYY-MM-DD
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Quitando caracter especial (Asi no lo toma como INT y realiza una operacion matematica)
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo nombre del mes con el numero que corresponda
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Seteo de fecha del periodo usado para el proceso
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Estadisticas encontradas en la tabla
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo Log de Negocio
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Archivo con log de negocio fue creado
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de obtencion de registros desde la tabla de estadisticas
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Recorriendo registros traidos por el SP
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Si es la ultima fila, se colocan los diseños correspondientes al footer
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Se crea la estructura del header
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Union del header, body y footer de la tabla
+(4/16/2020 10:40:46 AM) RPA_CAU_REN | <4_Estadisticas> | Se envia la tabla por correo a las personas correspondientes
+(4/16/2020 11:05:07 AM) .....:::::: INICIANDO ROBOT ::::::.....
+(4/16/2020 11:05:07 AM) RPA_CAU_REN | <1_Config> | Ejecucion sin error, dirigiendose a HU03
+(4/16/2020 11:05:08 AM) RPA_CAU_REN | <4_Estadisticas> | ..:: Iniciando <4_Estadisticas> ::..
+(4/16/2020 11:05:08 AM) RPA_CAU_REN | <4_Estadisticas> | Borrando archivo Log de Negocio antiguo
+(4/16/2020 11:05:08 AM) RPA_CAU_REN | <4_Estadisticas> | Conectando a PostgreSQL
+(4/16/2020 11:05:08 AM) RPA_CAU_REN | <4_Estadisticas> | Seteando Dia, Mes y Año
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Colocando 0 a la derecha para el formato del mes
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Union de la fecha con formato YYYY-MM-DD
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Quitando caracter especial (Asi no lo toma como INT y realiza una operacion matematica)
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo nombre del mes con el numero que corresponda
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Seteo de fecha del periodo usado para el proceso
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de creacion de estadisticas
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Estadisticas encontradas en la tabla
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Obteniendo Log de Negocio
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Archivo con log de negocio fue creado
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Ejecutando SP de obtencion de registros desde la tabla de estadisticas
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Recorriendo registros traidos por el SP
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Si es una fila cualquiera, se une a la estructura de la tabla
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Si es la ultima fila, se colocan los diseños correspondientes al footer
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Se crea la estructura del header
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Union del header, body y footer de la tabla
+(4/16/2020 11:05:09 AM) RPA_CAU_REN | <4_Estadisticas> | Se envia la tabla por correo a las personas correspondientes

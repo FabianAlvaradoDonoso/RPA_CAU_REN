@@ -7,7 +7,7 @@
 SET oShell = WScript.CreateObject("Wscript.Shell")
 ' Se inicializa la variable que contiene el script a ejecutar
 Dim currentCommand 
-currentCommand = "cmd /C py " & """" & WScript.Arguments(0) & """" & " " & """" & WScript.Arguments(1) & """" & " " & """" & WScript.Arguments(2) & """"
+currentCommand = "cmd /C python " & """" & WScript.Arguments(0) & """" & " " & """" & WScript.Arguments(1) & """" & " " & """" & WScript.Arguments(2) & """"
 ' Ejecutar script en SHELL
 oShell.run currentCommand,1,False
 
@@ -16,32 +16,32 @@ oShell.run currentCommand,1,False
 ' Syntaxis: oShell.Run(strCommand, [intWindowStyle], [bWaitOnReturn]) 
 ' Componentes:
 '    - strCommand
-'           Valor de cadena que indica la l√≠nea de comando que desea ejecutar. Debe incluir cualquier par√°metro 
+'           Valor de cadena que indica la lÌnea de comando que desea ejecutar. Debe incluir cualquier par·metro 
 '           que desee pasar al archivo ejecutable.
 
 '    - [intWindowStyle] (Opcional)
 '           Valor entero que indica la apariencia de la ventana del programa. Tenga en cuenta que no todos los 
-'           programas hacen uso de esta informaci√≥n.
+'           programas hacen uso de esta informaciÛn.
 '             0 - Oculta la ventana y activa otra ventana.
 '            (1) - Activa y muestra una ventana. Si la ventana se minimiza o maximiza, el sistema la restaura a su 
-'                 tama√±o y posici√≥n originales. Una aplicaci√≥n debe especificar este indicador cuando muestra la 
+'                 tamaÒo y posiciÛn originales. Una aplicaciÛn debe especificar este indicador cuando muestra la 
 '                 ventana por primera vez.
 '             2 - Activa la ventana y la muestra como una ventana minimizada.
 '             3 - Activa la ventana y la muestra como una ventana maximizada.
-'             4 - Muestra una ventana en su tama√±o y posici√≥n m√°s recientes. La ventana activa permanece activa.
-'             5 - Activa la ventana y la muestra en su tama√±o y posici√≥n actuales.
+'             4 - Muestra una ventana en su tamaÒo y posiciÛn m·s recientes. La ventana activa permanece activa.
+'             5 - Activa la ventana y la muestra en su tamaÒo y posiciÛn actuales.
 '             6 - Minimiza la ventana especificada y activa la siguiente ventana de nivel superior en el orden Z.
 '             7 - Muestra la ventana como una ventana minimizada. La ventana activa permanece activa.
 '             8 - Muestra la ventana en su estado actual. La ventana activa permanece activa.
 '             9 - Activa y muestra la ventana. Si la ventana se minimiza o maximiza, el sistema la restaura a su 
-'                 tama√±o y posici√≥n originales. Una aplicaci√≥n debe especificar este indicador al restaurar una 
+'                 tamaÒo y posiciÛn originales. Una aplicaciÛn debe especificar este indicador al restaurar una 
 '                 ventana minimizada.
-'             10 - Establece el estado del show en funci√≥n del estado del programa que inici√≥ la aplicaci√≥n.
+'             10 - Establece el estado del show en funciÛn del estado del programa que iniciÛ la aplicaciÛn.
 
 '    - [bWaitOnReturn] (Opcional)
 '           Valor booleano que indica si el script debe esperar a que el programa termine de ejecutarse antes de 
-'           continuar con la siguiente instrucci√≥n en su script. Si se establece en verdadero, la ejecuci√≥n del 
-'           script se detiene hasta que el programa finaliza y Run devuelve cualquier c√≥digo de error devuelto por 
-'           el programa. Si se establece en falso (el valor predeterminado), el m√©todo Run regresa inmediatamente 
-'           despu√©s de iniciar el programa, devolviendo autom√°ticamente 0 (no debe interpretarse como un c√≥digo de 
+'           continuar con la siguiente instrucciÛn en su script. Si se establece en verdadero, la ejecuciÛn del 
+'           script se detiene hasta que el programa finaliza y Run devuelve cualquier cÛdigo de error devuelto por 
+'           el programa. Si se establece en falso (el valor predeterminado), el mÈtodo Run regresa inmediatamente 
+'           despuÈs de iniciar el programa, devolviendo autom·ticamente 0 (no debe interpretarse como un cÛdigo de 
 '           error).

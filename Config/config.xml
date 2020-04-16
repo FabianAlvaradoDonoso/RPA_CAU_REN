@@ -1,10 +1,12 @@
 ﻿<config>
 	<Directorio_Input>Input\</Directorio_Input>
+	<Directorio_Drive>G:\Shared drives\AF\Causantes con Renta\</Directorio_Drive>
 	<Directorio_Log>Log\</Directorio_Log>
 	<Directorio_Temp>Temp\</Directorio_Temp>
 	<Directorio_Output>Output\</Directorio_Output>
 	<Directorio_Tasks>Task\</Directorio_Tasks>
 	<Directorio_Scripts>Scripts\</Directorio_Scripts>
+        <Directorio_Error>Error\</Directorio_Error>
 	<Nombre_Archivo_Entrada>input.cvs</Nombre_Archivo_Entrada>
 	<Nombre_Log_System>SystemLog_</Nombre_Log_System>
 	<Nombre_Log_Negocio>Log_</Nombre_Log_Negocio>
@@ -16,4 +18,5 @@
 	<Extension_CSV>.csv</Extension_CSV>
 	<CantidadDeErrores>3</CantidadDeErrores>
 	<script></script>
+	<Directorio_Drive>G:\Shared drives\AF\Causantes con Renta\</Directorio_Drive>
 </config>
